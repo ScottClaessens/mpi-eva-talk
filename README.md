@@ -13,6 +13,9 @@ devtools::install_github(c("ScottClaessens/coevolve", "rgriff23/btw"))
 BiocManager::install("ggtree")
 ```
 
+You will also need to download `BayesTraitsV3.exe` into this repository
+(see [here](https://www.evolution.reading.ac.uk/BayesTraitsV3/BayesTraitsV3.html)).
+
 ## Authors
 
 Scott Claessens, scott.claessens@gmail.com
